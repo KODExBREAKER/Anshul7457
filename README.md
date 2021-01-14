@@ -1,9 +1,11 @@
+<img align="rigth" alt="Coding" width=100% src="banner.jpeg">
+
 <h1 align="center">Hi 👋, I'm Anshul Pandey</h1>
 <h3 align="center">A CSE Sophomore and passionate for Web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul7457&label=Profile%20views&color=0e75b6&style=flat" alt="anshul7457" /> </p>
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="rigth" alt="Coding" width="400" src="side image.png">
 
 - 📫 How to reach me **anshulpandey812@gmail.com**
 
