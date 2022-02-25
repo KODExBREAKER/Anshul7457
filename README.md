@@ -1,4 +1,4 @@
-<img align="rigth" alt="sie image.png" width=100% src="banner.jpeg">
+<img align="rigth" alt="sie image.png" width=100% src="profile-banner.png">
 
 <h1 align="center">Hi 👋, I'm Anshul Pandey</h1>
 <h3 align="center">A CSE Sophomore and passionate for Web development</h3>
@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul7457&label=Profile%20views&color=0e75b6&style=flat" alt="anshul7457" /> </p>
 
 
-- 📫 How to reach me **anshulpandey812@gmail.com**
+- 📫 How to reach me **anshul.pandey7457@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
