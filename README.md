@@ -1,4 +1,4 @@
-<img align="rigth" alt="sie image.png" width=100% src="profile-banner.png">
+<img align="rigth" alt="sie image.png" width=100% src="profile-banner-1.png">
 
 <h1 align="center">Hi 👋, I'm Anshul Pandey</h1>
 <h3 align="center">A CSE Sophomore and passionate for Web development</h3>
